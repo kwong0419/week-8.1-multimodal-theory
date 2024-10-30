@@ -35,3 +35,5 @@ In today's lesson you will be able to:
 - Validate URL structure and file types
 - Safely download and saves images locally
 - Implement error handling and validation checks
+
+[Lesson](./lesson.ipynb)
