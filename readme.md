@@ -36,4 +36,4 @@ In today's lesson you will be able to:
 - Safely download and saves images locally
 - Implement error handling and validation checks
 
-[Lesson](./lesson.ipynb)
+[Go to Lesson](./lesson.ipynb)
