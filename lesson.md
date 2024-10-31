@@ -1,10 +1,10 @@
 # Lesson 8.1: Image Comparison Tool Using Gemini Multimodal Vision
 
-## <ins>Objectives</ins>
+## Objectives
 
 This tool provides an intuitive way to analyze and understand the similarities and differences between two images using AI vision capabilities.
 
-## <ins>Setup</ins>  
+## Setup  
 
 **Reminder:** Remember to `setup` and `activate` your virtual environment, choose your python interpreter and install the ipykernel. If you do not remember how please refer to the [Python Workspace Setup Instructions](https://github.com/jdrichards-pursuit/python-virtual-environment-setup).
 
@@ -82,7 +82,7 @@ from PIL import Image
   - Python Imaging Library (Pillow)
   - Handles image opening and processing
 
-## <ins>Declaring `setup_api()` Function</ins>
+## Declaring `setup_api()` Function
 
 This time we will create a `setup` function to load our API key from the `.env` file as well as initialize and configure our Gemini model which we will later invoke and store in the `model` variable.
 
@@ -123,7 +123,7 @@ Returns a configured instance of `GenerativeModel` using:
 - Custom configuration settings as defined above
 
 
-## <ins>Declaring Core Functions</ins>
+## Declaring Core Functions
 
 Next we will declare our core functions for this application. It is best practice to declare functions with a single responsibility and keep your code modular. We will do this by creating a function for each of the following tasks:
 
@@ -491,7 +491,7 @@ The main function orchestrates the entire image comparison workflow, handling us
 - Ensures graceful exit in case of failures
 - Prevents resource leaks through cleanup
 
-## <ins>Running the Code</ins>
+## Running the Code
 
 1. You will need two image URLs to run the code. You can use the following URLs for testing.
 
