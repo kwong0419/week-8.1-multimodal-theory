@@ -1,4 +1,4 @@
-# Lesson 8.1: Image Comparison Tool Using Gemini Multimodal Vision
+# Lesson 8.1: Image Comparison Tool Using Gemini API Multimodal Vision
 
 ## Objectives
 
