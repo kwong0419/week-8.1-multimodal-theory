@@ -25,7 +25,7 @@ Image Generation is another technique that uses AI to create realistic images th
 
 ## Lesson Takeaways
 
-In this lesson, we will build the foundational component of a multimodal application: a system that safely downloads and validates images from URLs. This code serves as the preprocessing step necessary before implementing Gemini API functionality.
+In this lesson, we will build a basic multimodal application: system that safely downloads and validates images from URLs. This code serves as the preprocessing step necessary before implementing Gemini API functionality.
 
 In today's lesson you will:
 - Accept user input for two image URLs
