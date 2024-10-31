@@ -47,6 +47,8 @@ The `-r` flag is used to read the requirements from the `requirements.txt` file 
 
 ### 4. Importing Required Libraries
 
+**Note:** All of the code for this lesson will be copied and pasted by you into the `main.py` file.
+
 Now that you have your API key, you've installed the required libraries and have activated your virtual environment, you can import the required libraries in your `main.py` file.
 
 ```python
@@ -209,7 +211,7 @@ The validate_file function performs a security check to ensure that only support
 - Returns True only if extension is in allowed list
 - Returns False for all other extensions
 
-#### Example Usage
+#### Example Usage (do not copy to your `main.py` file)
 
 ```python
 # Valid files
